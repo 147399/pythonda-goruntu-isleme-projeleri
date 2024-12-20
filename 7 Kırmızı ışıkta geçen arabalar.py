@@ -1,6 +1,6 @@
 import cv2
 
-# Çizgi koordinatlarını tanımla (örneğin, (x1, y1) ve (x2, y2) noktaları)
+# Çizgi koordinatlarını tanımla 
 line_start = (700, 900)  # Çizginin başlangıç noktası
 line_end = (1800, 950)    # Çizginin bitiş noktası
 
